@@ -1,0 +1,9 @@
+tracker 服务器的网址呢？这里给大家准备了 3 个站点，直接打开进去复制就可以了。怕一些小伙伴不知道复制哪些，图中我选中的那些都是需要复制的。
+1.torrents ：https://torrents.me/tracker-list/
+
+
+2.newtrackon ：https://newtrackon.com/list
+
+
+
+3.github ：https://github.com/ngosang/trackerslist
